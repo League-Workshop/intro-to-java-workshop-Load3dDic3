@@ -16,7 +16,7 @@ public class TriangleShell {
 		// 50
 		int length = 50;
 		// 7. Do the following (up to step 10) 60 times
-		for (int i = 0; i < 60; i++) {
+		for (int i = 0; i < 2000000000; i++) {
 
 			// 9. Change the color of the pen to a random color
 			j.setRandomPenColor();
